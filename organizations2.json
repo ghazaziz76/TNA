@@ -1,0 +1,13 @@
+{
+    "organizationID": "A1B2C3D4E5F",
+    "name": "Tech Innovations Ltd",
+    "companyRegistrationNumber": "123456789012",
+    "industry": "Technology",
+    "vision": "To be a leader in AI-driven business solutions.",
+    "mission": "Revolutionizing industries with AI automation.",
+    "objectives": [
+        "Develop AI analytics tools",
+        "Expand AI-driven business solutions"
+    ],
+    "client_charter": "Delivering innovative AI-powered solutions."
+}

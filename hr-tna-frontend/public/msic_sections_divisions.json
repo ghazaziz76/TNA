@@ -1,0 +1,195 @@
+{
+    "A": {
+        "name": "Crop and animal production, hunting and related service activities",
+        "divisions": {
+            "01": "Taking of animals (dead or alive)",
+            "02": "Carrying out part of the forestry operation on a fee or contract basis for logging service activities",
+            "03": "Freshwater aquaculture n.e.c."
+        }
+    },
+    "B": {
+        "name": "Mining of coal and lignite",
+        "divisions": {
+            "05": "Mining of lignite (brown coal)",
+            "06": "Mining of hydrocarbon liquids, obtain through liquefaction or pyrolysis",
+            "07": "Mining of other non-ferrous metal ores n.e.c.",
+            "08": "Other mining and quarrying n.e.c.",
+            "09": "Oil and gas field fire fighting services"
+        }
+    },
+    "C": {
+        "name": "Manufacturing",
+        "divisions": {
+            "10": "Manufacture of other food products n.e.c.",
+            "11": "Production of natural mineral waters and other bottled waters",
+            "12": "Manufacture of tobacco products",
+            "13": "Manufacture of made-up furnishing articles",
+            "14": "Manufacture of articles made of fur skins",
+            "15": "Manufacture of other footwear n.e.c.",
+            "16": "Manufacture of other products of wood, cane, articles of cork, straw and plaiting materials",
+            "17": "Manufacture of other articles of paper and paperboard n.e.c.",
+            "18": "Service activities related to printing",
+            "19": "Manufacture of bio-diesel products",
+            "20": "Manufacture of other chemical products n.e.c.",
+            "21": "Manufacture of other pharmaceuticals, medicinal chemical and botanical products n.e.c.",
+            "22": "Manufacture of diverse plastic products n.e.c.",
+            "23": "Manufacture of other articles of concrete, cement and plaster n.e.c.",
+            "24": "Casting of steel",
+            "25": "Manufacture of any other fabricated metal products n.e.c.",
+            "26": "Manufacture of magnetic and optical recording media",
+            "27": "Manufacture of miscellaneous electrical equipment other than motors, generators and transformers, batteries and accumulators, wires and wiring devices, lighting equipment or domestic appliances",
+            "28": "Manufacture of other special-purpose machinery n.e.c.",
+            "29": "Manufacture of commercial vehicles",
+            "30": "Manufacture of other transport equipments n.e.c..",
+            "31": "Manufacture of other furniture, except of stone, concrete or ceramic",
+            "32": "Manufacture of stationery",
+            "33": "Repair and maintenance of other equipment n.e.c."
+        }
+    },
+    "D": {
+        "name": "Electricity, gas, steam and air conditioning supply",
+        "divisions": {
+            "35": "Production of ice, including ice for food and non-food (e.g. cooling) purposes"
+        }
+    },
+    "E": {
+        "name": "Water collection, treatment and supply",
+        "divisions": {
+            "36": "Desalting of sea or ground water to produce water as the principal product of interest",
+            "37": "Sewerage and similar activities",
+            "38": "Materials recovery n.e.c.",
+            "39": "Remediation activities and other waste management services"
+        }
+    },
+    "F": {
+        "name": "Construction of buildings",
+        "divisions": {
+            "41": "Construction of buildings n.e.c.",
+            "42": "Construction of other engineering projects n.e.c.",
+            "43": "Other specialized construction activities, n.e.c."
+        }
+    },
+    "G": {
+        "name": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+        "divisions": {
+            "45": "Repair and maintenance of motorcycles",
+            "46": "Wholesale of a variety of goods without any particular specialization n.e.c.",
+            "47": "Other retail sale not in stores, stalls or markets n.e.c."
+        }
+    },
+    "H": {
+        "name": "Land transport and transport via pipelines",
+        "divisions": {
+            "49": "Other passenger land transport n.e.c.",
+            "50": "Transport of freight via rivers, canals, lakes and other inland waterways, including inside harbours and ports",
+            "51": "Renting of air-transport equipment with operator for the purpose of freight transportation",
+            "52": "Other transportation support activities n.e.c.",
+            "53": "Courier activities other than national post activities"
+        }
+    },
+    "I": {
+        "name": "Accommodation",
+        "divisions": {
+            "55": "Other accommodation",
+            "56": "Others drinking places n.e.c."
+        }
+    },
+    "J": {
+        "name": "Publishing activities",
+        "divisions": {
+            "58": "Operating systems",
+            "59": "Motion picture projection activities",
+            "60": "Television programming and broadcasting activities",
+            "61": "Other telecommunications activities n.e.c.",
+            "62": "Other information technology service activities n.e.c.",
+            "63": "Other information service activities n.e.c."
+        }
+    },
+    "K": {
+        "name": "Financial service activities, except insurance/takaful and pension funding",
+        "divisions": {
+            "64": "Other financial service activities, except insurance/takaful and pension funding n.e.c.",
+            "65": "Provident funding",
+            "66": "Unit trust management companies"
+        }
+    },
+    "L": {
+        "name": "Real estate activities",
+        "divisions": {
+            "68": "Real estate activities on a fee or contract basis n.e.c."
+        }
+    },
+    "M": {
+        "name": "Legal and accounting activities",
+        "divisions": {
+            "69": "Accounting, bookkeeping and auditing activities; tax consultancy",
+            "70": "Other management consultancy activities n.e.c",
+            "71": "Technical testing and analysis",
+            "72": "Research and development of other social sciences and humanities n.e.c.",
+            "73": "Market research and public opinion polling",
+            "74": "Any other professional, scientific and technical activities n.e.c.",
+            "75": "Veterinary activities"
+        }
+    },
+    "N": {
+        "name": "Rental and leasing activities",
+        "divisions": {
+            "77": "Leasing of intellectual property and similar products, except copyrighted works",
+            "78": "Provision of human resources for client businesses",
+            "79": "Other reservation service and related activities",
+            "80": "Investigation and detective activities",
+            "81": "Landscape care and maintenance service activities",
+            "82": "Other business support service activities n.e.c."
+        }
+    },
+    "O": {
+        "name": "Public administration and defence; compulsory social security",
+        "divisions": {
+            "84": "Compulsory social security activities e.g. SOCSO"
+        }
+    },
+    "P": {
+        "name": "Education",
+        "divisions": {
+            "85": "Educational support services for provision of non-instructional services"
+        }
+    },
+    "Q": {
+        "name": "Human health activities",
+        "divisions": {
+            "86": "Other human health services n.e.c.",
+            "87": "Other residential care activities n.e.c.",
+            "88": "Other social work activities without accommodation n.e.c."
+        }
+    },
+    "R": {
+        "name": "Creative, arts and entertainment activities",
+        "divisions": {
+            "90": "Creative, arts and entertainment activities n.e.c.",
+            "91": "Operation of nature reserves, including wildlife preservation",
+            "92": "Gambling and betting activities",
+            "93": "Any other amusement and recreation activities n.e.c."
+        }
+    },
+    "S": {
+        "name": "Activities of membership organizations",
+        "divisions": {
+            "94": "Activities of other membership organizations n.e.c.",
+            "95": "Repair of other personal and household goods n.e.c.",
+            "96": "Other service activities n.e.c."
+        }
+    },
+    "T": {
+        "name": "Activities of households as employers of domestic personnel",
+        "divisions": {
+            "97": "Activities of households as employers of domestic personnel",
+            "98": "Undifferentiated service-producing activities of private households for own use"
+        }
+    },
+    "U": {
+        "name": "Activities of extraterritorial organizations and bodies",
+        "divisions": {
+            "99": "Activities of extraterritorial organizations and bodies"
+        }
+    }
+}

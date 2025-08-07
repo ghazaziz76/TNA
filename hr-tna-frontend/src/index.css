@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ✅ Make Sector Names Bold */
+.sector-option {
+    font-weight: bold !important;
+}
+
+/* ✅ Make Industry Names Italic */
+.industry-option {
+    font-style: italic !important;
+}
+
+
